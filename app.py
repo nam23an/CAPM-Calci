@@ -15,7 +15,7 @@ st.markdown("""
 """, unsafe_allow_html=True)
 
 # Sidebar with title
-st.sidebar.image("https://upload.wikimedia.org/wikipedia/commons/4/4c/Modern_Portfolio_Theory.png", use_column_width=True)
+st.sidebar.image("https://upload.wikimedia.org/wikipedia/commons/4/4c/Modern_Portfolio_Theory.png", use_container_width=True)
 st.sidebar.title("📈 CAPM Calculator")
 st.sidebar.markdown("This tool helps you calculate the *Expected Return* using the Capital Asset Pricing Model (CAPM).")
 
