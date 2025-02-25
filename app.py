@@ -1,3 +1,5 @@
+# Debugging
+st.write("App is starting...")
 import streamlit as st
 import matplotlib.pyplot as plt
 
