@@ -1,6 +1,7 @@
 import streamlit as st
 import numpy as np
 import pandas as pd
+import matplotlib.pyplot as plt  # Add this to fix the graph issue
 # Set page configuration
 st.set_page_config(page_title="CAPM Calculator", page_icon="📊", layout="wide")
 
